@@ -49,9 +49,9 @@ Where `X` represents the iteration number during scraping.
 ## Installation
 
 1. Clone the repository
-2. Install required dependencies:
+2. Install required dependencies from requirements.txt:
    ```bash
-   pip install requests beautifulsoup4 pypdf
+   pip install -r requirements.txt
    ```
 
 ## Usage
