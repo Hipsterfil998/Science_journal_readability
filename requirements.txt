@@ -1,0 +1,5 @@
+pyPDF2 
+spacy_conll
+pyconll
+stanza
+textcomplexity
